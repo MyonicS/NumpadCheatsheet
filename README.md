@@ -1,7 +1,5 @@
 # NumpadCheatsheet
-Cheatsheet of numpad codes usefull for scientific writing
-
-
+Cheatsheet of numpad codes useful for scientific writing when not using LaTex. Please add to it!
 
 | Symbol | code |
 | ----------- | ----------- |
